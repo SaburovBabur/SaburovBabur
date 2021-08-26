@@ -1,16 +1,45 @@
-### Hi there 👋
+# Assalomu Alaykum 👋
 
-<!--
-**SaburovBabur/SaburovBabur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SaburovBabur)
 
-Here are some ideas to get you started:
+## About me 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~~~css
+#Babur {
+  height: 175;
+  position: Tashkent, Uzbekistan;  
+  display: boy; 
+  background: athlete 🥊; 
+}
+~~~
+
+## Why me?
+
+~~~js
+const me = {
+  name: "Babur",
+  age: 20,
+
+  techs: {
+     frontend: ["ReactJs", "Redux", "Jest", "TailwindCSS", "SASS", "Webpack", "Vite", "git"],
+     backend : ["NodeJs", "ExpressJs", "PostgreSQL", "MySQL", "Mongo", "Jest", "Redis", "git"],
+     DevOps  : ["Docker", "Ubuntu", "bash"]
+  },
+
+  experience: "3+ years",
+
+  languages: ["English - C1", "Uzbek", "Russian"]
+};
+
+
+you.hire(me)
+  .then(() => you.succeed())
+  .catch(() => you.giveSomeTime());
+~~~
+
+
+## Contact 📞
+
+Phone: +998907271449
+
+Email: saburovbabur@gmail.com
