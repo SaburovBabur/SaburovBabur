@@ -21,7 +21,7 @@ const me = {
   age: 20,
 
   techs: {
-     frontend: ["ReactJs", "Redux", "Jest", "TailwindCSS", "SASS", "Webpack", "Vite", "git"],
+     frontend: ["ReactJs", "Redux", "NextJS", "Jest", "TailwindCSS", "SASS", "Webpack", "Vite", "git"],
      backend : ["NodeJs", "ExpressJs", "PostgreSQL", "MySQL", "Mongo", "Jest", "Redis", "git"],
      DevOps  : ["Docker", "Ubuntu", "bash"]
   },
@@ -32,7 +32,7 @@ const me = {
 };
 
 
-you.hire(me)
+you.workWith(me)
   .then(() => you.succeed())
   .catch(() => you.giveSomeTime());
 ~~~
