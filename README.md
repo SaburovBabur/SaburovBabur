@@ -2,19 +2,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SaburovBabur)
 
-## About me 👨‍💻
-
-~~~css
-#Babur {
-  height: 175;
-  position: Tashkent, Uzbekistan;  
-  display: boy; 
-  background: athlete 🥊; 
-}
-~~~
-
-## Why me?
-
 ~~~js
 const me = {
   name: "Babur",
@@ -36,10 +23,3 @@ you.workWith(me)
   .then(() => you.succeed())
   .catch(() => you.giveSomeTime());
 ~~~
-
-
-## Contact 📞
-
-Phone: +998907271449
-
-Email: saburovbabur@gmail.com
