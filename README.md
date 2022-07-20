@@ -5,7 +5,6 @@
 ~~~js
 const me = {
   name: "Babur",
-  age: 20,
 
   techs: {
      frontend: ["ReactJs", "Redux", "NextJS", "Jest", "TailwindCSS", "SASS", "Webpack", "Vite", "git"],
